@@ -22,7 +22,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .
+bio: My research interests include soft robot and flexible sensor. Welcome to contact me.
 
 # Interests to show in About widget
 interests:

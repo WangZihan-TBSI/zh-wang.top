@@ -10,11 +10,18 @@ authors:
 - Yidan Cao
 - Yunlong Zi
 - Wenbo Ding
-- Zhong Lin Wang#
+- Zhong Lin Wang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
+-
+-
+-
+-
+-
+- "Corresponding Author"
+- "Corresponding Author"
 date: "2022-06-07T00:00:00Z"
 doi: "10.1039/D2EE00900E"
 
