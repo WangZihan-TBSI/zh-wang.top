@@ -1,12 +1,17 @@
 ---
-title: 'An example conference paper'
+title: 'STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Zihan Wang
+  - Kai-Chong Lei
+  - Huaze Tang
+  - Shoujie Li
+  - Yuan Dai
+  - Wenbo Ding
+  - Xiao-Ping Zhang
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +22,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-06-04T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
