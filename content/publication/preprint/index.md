@@ -36,9 +36,9 @@ tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: 
+#links:
+#- name: Custom Link
+#  url: 
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -52,7 +52,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**IEEE**](https://ieee.com/)'
-  focal_point: ""
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -61,7 +61,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-- 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
