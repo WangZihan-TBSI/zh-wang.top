@@ -1,7 +1,7 @@
 ---
 title: "Triboelectric-nanogenerator-enabled mechanical modulation for infrared wireless communications"
 authors:
-- Zihan Wang
+- admin
 - Yuchao Jin
 - Chengyue Lu
 - Jiyu Wang
@@ -83,7 +83,7 @@ authors:
 - Xun Zhao
 - Guorui Chen
 - Zixiao Liu
-- Zihan Wang
+- admin
 - Chengyue Lu
 - Menglei Hu
 - Ardo Nashalian

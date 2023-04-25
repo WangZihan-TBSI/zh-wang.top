@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zihan Wang 王子涵
+title: Zihan Wang
 
 # Full name (for SEO)
 first_name: Zihan
@@ -50,15 +50,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:zihan.wang@berkeley.edu
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Z_H_Wang
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/Z_H_Wang
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: false
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?hl=zh-CN&pli=1&user=_rH7NooAAAAJ
+    display:
+     header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/WangZihan-TBSI
@@ -70,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: resume.pdf
+    link: https://cloud.tsinghua.edu.cn/f/172fd41deb4b4616ac8b/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: zihan.wang@berkeley.edu
