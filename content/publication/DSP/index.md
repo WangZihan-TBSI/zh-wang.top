@@ -1,5 +1,5 @@
 ---
-title: Sensing beyond itself: Multi-functional use of ubiquitous signals towards wearable applications
+title: Sensing beyond itself':' Multi-functional use of ubiquitous signals towards wearable applications
 
 authors: 
 - admin

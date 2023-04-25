@@ -1,5 +1,5 @@
 ---
-title: Multiscale-VR: Multiscale Gigapixel 3D Panoramic Videography for Virtual Reality
+title: Multiscale-VR':' Multiscale Gigapixel 3D Panoramic Videography for Virtual Reality
 authors: 
 - Jianing Zhang
 - Tianyi Zhu
