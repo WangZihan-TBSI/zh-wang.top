@@ -51,7 +51,7 @@ featured: true
 url_pdf: 'papers/BA-TENG.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'posters/BA-TENG-poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
