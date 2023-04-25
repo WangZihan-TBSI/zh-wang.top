@@ -1,18 +1,16 @@
 ---
 title: 'STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot'
 authors:
-  - Zihan Wang
-  - Kai-Chong Lei
-  - Huaze Tang
-  - Shoujie Li
-  - Yuan Dai
-  - Wenbo Ding
-  - Xiao-Ping Zhang
-
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-
+- Zihan Wang
+- Kai-Chong Lei
+- Huaze Tang
+- Shoujie Li
+- Yuan Dai
+- Wenbo Ding
+- Xiao-Ping Zhang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2023-06-04T00:00:00Z"
 doi: "10.1039/D2EE00900E""
 
