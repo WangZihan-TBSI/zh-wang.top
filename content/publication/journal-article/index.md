@@ -73,6 +73,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+---
 
 title: An ultrathin rechargeable solid-state zinc ion fiber battery for electronic textiles
 authors: 
@@ -100,10 +101,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-
-
-
 ---
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
