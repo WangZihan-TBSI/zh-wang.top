@@ -12,9 +12,7 @@ sections:
       #  filename: hero-academic.png
       
       text: |-
-        **My research focuses on the intersection of flexible sensors, energy harvesting devices, and signal processing algorithms to develop solutions for soft robots.
-**
-
+        **My research focuses on the intersection of flexible sensors, energy harvesting devices, and signal processing algorithms to develop solutions for soft robots.**
 
     design:
       background:
