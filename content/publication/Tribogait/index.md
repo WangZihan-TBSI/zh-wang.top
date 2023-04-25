@@ -1,11 +1,37 @@
 ---
-title: 
+title: A triboelectric gait sensor system for human activity recognition and user identification
 authors: 
-- 
+- Jiarong Li
+- Zixuan Xie
+- admin
+- Zenan Lin
+- Chengyue Lu
+- Zihao Zhao
+- Yuchao Jin
+- Jihong Yin
+- Shilong Mu
+- Chaobo Zhang
+- Weihua Gui
+- Xiaojun Liang
+- Jiyu Wang
+- Wenbo Ding
 author_notes:
 - "Equal contribution"
-date: ''
-doi: ''
+- "Equal contribution"
+- "Equal contribution"
+-
+-
+-
+-
+-
+-
+-
+-
+- Corresponding Author
+- Corresponding Author
+- Corresponding Author
+date: '2023-04-20T00:00:00Z'
+doi: 'doi.org/10.1016/j.nanoen.2023.108473'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-04T00:00:00Z'
 
@@ -19,14 +45,15 @@ publication_types: ['2']
 publication: Nano Energy
 
 
-abstract: 
+abstract: Floor-based sensing systems to monitor human activities and identify users are essential for smart homes and intelligent buildings. A low-cost, easy-to-fabricate, and flexible gait sensor system based on triboelectric nano- generator (TENG) is presented in this paper, which can transform gait movements, even in the low-frequency form, into electrical impulses without an external power source. To realize this, a TENG-based gait sensor unit with an optimized structure design is proposed to enhance the sensing sensitivity. A sensing insole module is formed by arranging the sensor units according to the foot pressure distribution. The sensor distribution is then explored and improved by comparative studies of gait recognition performance, which increases the recognition efficiency and the possible application in edge computing scenarios. Furthermore, a deep learning network is developed based on long short-term memory (LSTM) and residual units to extract deep features from multi- channel time-series gait data to boost recognition performance. Experimental results demonstrate that the pro- posed gait sensor system can be utilized for human activity recognition and user identification with accuracies of 97.9 % and 99.4 %, respectively. Finally, a gait-sensing-based fitness exercise monitoring system is constructed that can estimate calorie expenditure and distinguish between standard and non-standard fitness activities with an accuracy of 97.2 %. This work can be extended to various application scenarios such as security surveillance, health monitoring, and intelligent control, which provides a new ubiquitous self-powered sensing solution for the Internet of Things (IoT).
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
  - Triboelectric Nanogenerator
- - 
+ - Self-powered sensor
+ - Deep learning network
 
 # Display this page in the Featured widget?
 featured: false
@@ -36,7 +63,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'paper/Tribogait-NanoEnergy.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
