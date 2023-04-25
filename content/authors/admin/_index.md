@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://cloud.tsinghua.edu.cn/f/172fd41deb4b4616ac8b/
+    link: "uploads/resume.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: zihan.wang@berkeley.edu
