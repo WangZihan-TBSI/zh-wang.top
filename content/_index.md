@@ -32,8 +32,8 @@ sections:
       items:
         - name: LabVIEW
           description: 
-          company_logo: labview
-          # icon_pack: fab
+          icon: labview
+          icon_pack: custom
         - name: Signal Processing
           description: 
           icon: chart-line
