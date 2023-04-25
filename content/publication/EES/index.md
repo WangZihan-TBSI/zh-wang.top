@@ -73,33 +73,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
-
-title: An ultrathin rechargeable solid-state zinc ion fiber battery for electronic textiles
-authors: 
-- Xiao Xiao
-- Xiao Xiao
-- Yihao Zhou
-- Xun Zhao
-- Guorui Chen
-- Zixiao Liu
-- admin
-- Chengyue Lu
-- Menglei Hu
-- Ardo Nashalian
-- Sophia Shen
-- Kedi Xie
-- Weiwei Yang
-- Yongji Gong
-- Wenbo Ding
-- Peyman Servati
-- Chao Han
-- Shi Xue Dou
-- Weijie Li
-- Jun Chen
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 ---
 
