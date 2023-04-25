@@ -72,9 +72,38 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+slides: ""
 
+title: An ultrathin rechargeable solid-state zinc ion fiber battery for electronic textiles
+authors: 
+- Xiao Xiao
+- Xiao Xiao
+- Yihao Zhou
+- Xun Zhao
+- Guorui Chen
+- Zixiao Liu
+- Zihan Wang
+- Chengyue Lu
+- Menglei Hu
+- Ardo Nashalian
+- Sophia Shen
+- Kedi Xie
+- Weiwei Yang
+- Yongji Gong
+- Wenbo Ding
+- Peyman Servati
+- Chao Han
+- Shi Xue Dou
+- Weijie Li
+- Jun Chen
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
+
+
+
+---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -82,5 +111,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
