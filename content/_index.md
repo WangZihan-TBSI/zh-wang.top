@@ -44,7 +44,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education & Exchange
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -58,12 +58,11 @@ sections:
           company: UC Berkeley
           company_url: ''
           company_logo: UC-Berkeley-Emblem
-          location: California
+          location: California, USA
           date_start: '2023-03-01'
           date_end: ''
           description: |2-
               Research topics include:
-
               * Self-healing materials
               * Soft robots
 
@@ -75,6 +74,34 @@ sections:
           date_start: '2019-09-01'
           date_end: ''
           description: Research on Self-powered sensors and human-machine interface.
+
+        - title: B.Eng. in Telecommunications Engineering
+          company: Herriot-Watt University
+          company_url: ''
+          company_logo: HWU_Logo
+          location: Scotland, UK
+          date_start: '2015-08-30'
+          date_end: '2019-06-01'
+          description: Thesis - Motion Primitives Extraction in MIS Instrument Trajectories for Pattern Recognition
+
+        - title: B.Eng. in Telecommunications Engineering
+          company: Xidian University
+          company_url: ''
+          company_logo: Xidian_Logo
+          location: China
+          date_start: '2015-08-30'
+          date_end: '2019-06-01'
+          description: Joint dual-degree programme with Herriot-Watt University
+        
+        - title: Visiting Student
+          company: Boston University
+          company_url: ''
+          company_logo: BU_Logo
+          location: Massachusetts, USA
+          date_start: '2018-07-01'
+          date_end: '2019-08-01'
+          description: English for STEM leaders  
+          
     design:
       columns: '2'
   #- block: accomplishments
