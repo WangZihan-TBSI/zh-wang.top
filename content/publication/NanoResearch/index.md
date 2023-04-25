@@ -1,11 +1,29 @@
 ---
-title: 
+title: Piezoelectric soft robot driven by mechanical energy
 authors: 
-- 
+- Jiangfeng Lu
+- Zicong Miao
+- admin
+- Ying Liu
+- Dekuan Zhu
+- Jihong Yin
+- Fei Tang
+- Xiaohao Wang
+- Wenbo Ding
+- Min Zhang
 author_notes:
-- 
-date: ''
-doi: ''
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+-
+-
+-
+-
+- "Corresponding Author"
+- "Corresponding Author"
+- "Corresponding Author"
+date: '2022-10-10T00:00:00Z'
+doi: 'https://doi.org/10.1007/s12274-022-5180-y'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-06-04T00:00:00Z'
 
@@ -16,17 +34,16 @@ publishDate: '2019-06-04T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Nano Research
 
-
-abstract: 
+abstract: Power sources and energy-harvesting schemes are still grand challenges for soft robots. Notably, compared with other power sources, triboelectric nanogenerators (TENGs) have shown great potential because of their low manufacturing and fabrication costs, outstanding resilience, remarkable stability, and environmental friendliness. Herein, a triboelectric effect-driven piezoelectric soft robot (TEPSR) system is proposed, which integrates a rotary freestanding triboelectric nanogenerator (RF- TENG) to drive a soft robot comprising a piezoelectric unimorph and electrostatic footpads. Based on the natural triboelectrification, through converting mechanical energy into electricity, TENG provides a unique approach for actuation and manipulation of the soft robot. The perfect combination provides the most straightforward way for creating a self-powered system. Experimentally, under the power of RF-TENG, the soft robot reaches a maximum moving speed of 10 cm per second and a turning rate of 89.7° per second, respectively. The actuation and manipulation demonstration are intuitively accomplished by maneuvering the robot around a maze with a 71 cm track within 28 s. For autonomous feedback controls, one practical application is carrying two infrared sensors on board to realize obstacle avoidance in an unstructured environment. Moreover, a micro-camera was equipped with the soft robot to provide real-time “first-person” video streaming, enhancing its detection capability.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
- - 
- - 
+ - Self-powered System
+ - Soft Robot
 
 # Display this page in the Featured widget?
 featured: false
@@ -36,7 +53,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'papers/NanoResearch.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

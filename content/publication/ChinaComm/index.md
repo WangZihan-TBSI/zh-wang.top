@@ -1,26 +1,18 @@
 ---
-title: 'Sensing beyond itself: Multi-functional use of ubiquitous signals towards wearable applications'
-
+title: 'MARVEL: Multi-Agent Reinforcement Learning for VANET Delay Minimization'
 authors: 
+- Chengyue Lu
 - admin
-- Jiarong Li
-- Yuchao Jin
-- Jiyu Wang
-- Fang Yang
-- Gang Li
-- Xiaoyue Ni
 - Wenbo Ding
+- Gang Li
+- Sicong Liu
+- Ling Cheng
 author_notes:
 - 
 -
--
--
--
--
--
-- Corrresponding Author
-date: '2021-05-21T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.dsp.2021.103091'
+- Corresponding Author
+date: '2021-06-04T00:00:00Z'
+doi: 'https://doi.org/10.23919/JCC.2021.06.001'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-06-04T00:00:00Z'
 
@@ -31,27 +23,27 @@ publishDate: '2019-06-04T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Digital Signal Processing
+publication: IEEE China Communication
 
-abstract: Wearable technologies provide a non-invasive way to monitor user’s activity, identity, and health in real-time, which have attracted tremendous interests from both academia and industry. Due to constraints in form factor and power consumption, the sensing capabilities and functionalities of the wearables are usually limited by the available sensors. In the past decade, researchers have committed to realizing the sensing capability of multiple sensors via the signal from one sensor, which expanded the functionalities and sensing domains of traditional sensors. For the first time, we defined such sensing approach as “cross-sensing” and provided a comprehensive review on the cross-sensing towards wearable applications (i.e., human-machine interface, health services, and security). Specifically, this paper summarized the applied signal processing and machine learning algorithms, and discussed how cross-sensing would affect the development and innovation trends of wearable electronics.
+
+abstract: In urban Vehicular Ad hoc Networks (VANETs), high mobility of vehicular environment and frequently changed network topology call for a low delay end-to-end routing algorithm. In this paper, we propose a Multi-Agent Reinforcement Learning (MARL) based decentralized routing scheme, where the inherent similarity between the routing problem in VANET and the MARL problem is exploited. The proposed routing scheme models the interaction be- tween vehicles and the environment as a multi-agent problem in which each vehicle autonomously estab- lishes the communication channel with a neighbor de- vice regardless of the global information. Simula- tion performed in the 3GPP Manhattan mobility model demonstrates that our proposed decentralized routing algorithm achieves less than 45.8 ms average latency and high stability of 0.05 % averaging failure rate with varying vehicle capacities.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
- - Human-machine interaction
- - Wearable technologies
+ - Reinforcement Learning
  - Signal Processing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'papers/DSP.pdf'
+url_pdf: 'papers/MARVEL.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
