@@ -32,7 +32,7 @@ sections:
       items:
         - name: LabVIEW
           description: 
-          icon: labview
+          icon: labview-blue
           icon_pack: custom
         - name: Signal Processing
           description: 

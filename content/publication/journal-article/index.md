@@ -2,12 +2,21 @@
 title: "An example journal article"
 authors:
 - Zihan Wang
-- Robert Ford
+- Yuchao Jin
+- Chengyue Lu
+- Jiyu Wang
+- Ziwu Song
+- Xu Yang
+- Yidan Cao
+- Yunlong Zi
+- Wenbo Ding
+- Zhong Lin Wang#
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "Equal contribution"
+date: "2022-06-07T00:00:00Z"
+doi: "10.1039/D2EE00900E"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,34 +28,35 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Energy & Environmental Science"
+publication_short: "Energy Environ. Sci."
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Optical wireless communications (OWC), featuring a wide optical bandwidth and robust resistance to radio-frequency interference (RFI), can benefit the development of the Internet of Things (IoT). Making IoT devices ubiquitous calls for decentralized and on-demand power sources for wireless communications. However, existing visible-light-based self-powered OWC systems are complex on the receiver side, they are easily affected by ambient light, and they can disturb dark environments. In this paper, we realized self-powered infrared (IR) wireless communications via integrating a triboelectric nanogenerator (TENG) and an IR transmitter. With customized mechanical modulation protocols, both the frequency and amplitude features of the IR signal, enabled by different mechanical motion or mechanical structures of TENG devices, can be leveraged for conveying information. The concept of this TENG-enabled wireless infrared communications framework and the results from this study may pave the way for a new generation of self-powered communications in a sustainable manner.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In the era of 6G and the Internet of Things (IoT), massive amounts of data are produced by distributed sensors and transferred wirelessly between various smart devices. Meanwhile, the proportion of global energy expended on communications keeps increasing. A possible solution to reduce energy required for information transfer is harvesting pervasive mechanical energy. However, the popularization of so-far-realized visible-light-based self-powered optical wireless communications (OWC) systems is restricted by ambient light conditions and complex receiver designs. In this work, an infrared (IR)-based OWC system is proposed to leverage a triboelectric nanogenerator (TENG) to achieve information encoding and transmission using an IR signal that is robust against light interference. Specifically, the mechanical motion and mechanical structures of TENGs can be utilized to convey information and power the IR emitter. Moreover, the system supports diverse TENG structures and can accommodate different demands. Our research shows that self-powered IR-based OWC, with the merits of long transmission distances, high adaptability, and low cost, may significantly promote TENG-enabled OWC and pave the way for sustainable communications.
 
 tags:
-- Source Themes
-featured: false
+- Self-powered System
+- Triboelectric Nanogenerator
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://drive.google.com/file/u/0/d/10bXjaFQtkJt_kakM9llNGB0zufDiH6Dc/view
+#url_code: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Royal Society of Chemistry**](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2EE00900E&imageInfo.ImageIdentifier.Year=2022)'
   focal_point: ""
   preview_only: false
 
