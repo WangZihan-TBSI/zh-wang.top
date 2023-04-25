@@ -8,9 +8,11 @@ authors:
   - Yuan Dai
   - Wenbo Ding
   - Xiao-Ping Zhang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+
 date: "2023-06-04T00:00:00Z"
 doi: "10.1039/D2EE00900E""
 
