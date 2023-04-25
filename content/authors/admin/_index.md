@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zihan.wang@berkeley.edu'
+    link: zihan.wang@berkeley.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Z_H_Wang
@@ -71,14 +71,14 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: zihan.wang@berkeley.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zihan Wang is a Ph.D. student of Data Science and Information Technology at Tsinghua University Smart Sensing and Robotics Lab. His research interests include soft sensors, soft robotics, signal processing and machine learning. He leads the soft robot sensing in his group, which develops e-skins for soft robots proprioceptive sensing.
 {style="text-align: justify;"}
