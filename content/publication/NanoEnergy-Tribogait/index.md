@@ -31,7 +31,7 @@ author_notes:
 - Corresponding Author
 - Corresponding Author
 date: '2023-04-20T00:00:00Z'
-doi: 'doi.org/10.1016/j.nanoen.2023.108473'
+doi: 'https://doi.org/10.1016/j.nanoen.2023.108473'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-04T00:00:00Z'
 

@@ -25,7 +25,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2021-12-01T00:00:00Z'
-doi: '10.1126/sciadv.abl3742'
+doi: 'https://10.1126/sciadv.abl3742'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-04T00:00:00Z'
 

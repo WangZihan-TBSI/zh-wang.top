@@ -23,7 +23,7 @@ author_notes:
 - "Corresponding Author"
 - "Corresponding Author"
 date: "2022-06-07T00:00:00Z"
-doi: "10.1039/D2EE00900E"
+doi: "https://10.1039/D2EE00900E"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -51,7 +51,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://drive.google.com/file/u/0/d/10bXjaFQtkJt_kakM9llNGB0zufDiH6Dc/view
+url_pdf: papers/EES.pdf
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
