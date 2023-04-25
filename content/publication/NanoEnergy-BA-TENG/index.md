@@ -37,8 +37,9 @@ abstract: Recent advances in human-machine interface (HMI) lead to a renewed int
 summary: 
 
 tags:
- - Triboelectric Nanogenerator
+ - Self-powered Sensor
  - Robotics
+ - Virtual Reality
 
 # Display this page in the Featured widget?
 featured: true

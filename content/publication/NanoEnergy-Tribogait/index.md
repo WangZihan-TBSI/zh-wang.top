@@ -52,8 +52,8 @@ summary:
 
 tags:
  - Triboelectric Nanogenerator
- - Self-powered sensor
- - Deep learning network
+ - Self-powered Sensor
+ - Deep Learning
 
 # Display this page in the Featured widget?
 featured: false
