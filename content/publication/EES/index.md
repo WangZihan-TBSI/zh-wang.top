@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Energy & Environmental Science"
-publication_short: "Energy Environ. Sci."
+# publication_short: "Energy Environ. Sci."
 
 abstract: Optical wireless communications (OWC), featuring a wide optical bandwidth and robust resistance to radio-frequency interference (RFI), can benefit the development of the Internet of Things (IoT). Making IoT devices ubiquitous calls for decentralized and on-demand power sources for wireless communications. However, existing visible-light-based self-powered OWC systems are complex on the receiver side, they are easily affected by ambient light, and they can disturb dark environments. In this paper, we realized self-powered infrared (IR) wireless communications via integrating a triboelectric nanogenerator (TENG) and an IR transmitter. With customized mechanical modulation protocols, both the frequency and amplitude features of the IR signal, enabled by different mechanical motion or mechanical structures of TENG devices, can be leveraged for conveying information. The concept of this TENG-enabled wireless infrared communications framework and the results from this study may pave the way for a new generation of self-powered communications in a sustainable manner.
 

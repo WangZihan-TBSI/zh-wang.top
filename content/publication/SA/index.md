@@ -37,7 +37,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Science Advances
-publication_short: Sci. Adv.
+# publication_short: Sci. Adv.
 
 abstract: Electronic textiles (e-textiles), having the capability of interacting with the human body and surroundings, are changing our everyday life in fundamental and meaningful ways. Yet, the expansion of the field of e-textiles is still limited by the lack of stable and biocompatible power sources with aesthetic designs. Here, we report a rechargeable solid-state Zn/MnO2 fiber battery with stable cyclic performance exceeding 500 hours while maintaining 98.0% capacity after more than 1000 charging/recharging cycles. The mechanism of the high electrical and mechanical performance due to the graphene oxide–embedded polyvinyl alcohol hydrogel electrolytes was rationalized by Monte Carlo simulation and finite element analysis. With a collection of key features including thin, light weight, economic, and biocompatible as well as high energy density, the Zn/MnO2 fiber battery could seamlessly be integrated into a multifunctional on-body e-textile, which provides a stable power unit for continuous and simultaneous heart rate, temperature, humidity, and altitude monitoring.
 
@@ -49,7 +49,7 @@ tags:
  - Soft Sensors
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
