@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Triboelectric-nanogenerator-enabled mechanical modulation for infrared wireless communications"
 authors:
 - Zihan Wang
 - Yuchao Jin
