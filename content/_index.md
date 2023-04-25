@@ -32,9 +32,9 @@ sections:
       items:
         - name: LabVIEW
           description: 
-          icon: labview
+          company_logo: labview
           # icon_pack: fab
-        - name: Statistics
+        - name: Signal Processing
           description: 
           icon: chart-line
           icon_pack: fas
