@@ -25,7 +25,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2021-12-01T00:00:00Z'
-doi: ''
+doi: '10.1126/sciadv.abl3742'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-04T00:00:00Z'
 
@@ -86,13 +86,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

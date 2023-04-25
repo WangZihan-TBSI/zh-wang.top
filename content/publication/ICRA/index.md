@@ -12,7 +12,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2023-06-04T00:00:00Z"
-doi: "10.1039/D2EE00900E"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -69,9 +69,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
