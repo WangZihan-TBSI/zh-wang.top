@@ -1,9 +1,18 @@
 ---
-title: "An example preprint / working paper"
+title: 'STEV: Stretchable Triboelectric E-skin enabled Proprioceptive Vibration Sensing for Soft Robot'
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+  - Zihan Wang
+  - Kai-Chong Lei
+  - Huaze Tang
+  - Shoujie Li
+  - Yuan Dai
+  - Wenbo Ding
+  - Xiao-Ping Zhang
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2023-06-04T00:00:00Z"
+doi: "10.1039/D2EE00900E""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -12,32 +21,32 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *IEEE International Conference on Robotics and Automation*
+publication_short: In *ICRA*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Vibration perception is essential for robotic sens- ing and dynamic control. Nevertheless, due to the rigorous demand for sensor conformability and stretchability, enabling soft robots with proprioceptive vibration sensing remains challenging. This paper proposes a novel liquid metal-based stretchable e-skin via a kirigami-inspired design to enable soft robot proprioceptive vibration sensing. The e-skin is fabricated into 0.1mm ultrathin thickness, ensuring its negligible influence on the overall stiffness of the soft robot. Moreover, the working mechanism of the e-skin is based on the ubiquitous triboelec- trification effect, which transduces mechanical stimuli without external power supply. To demonstrate the practicability of the e-skin, we built a soft gripper consisting of three soft robotic fingers with proprioceptive vibration sensing. Our experiment shows that the gripper can accurately distinguish the grain category (six grains with the same mass, 99.9% accuracy) and the packaging quality (100% accuracy) by simply shaking the gripped bottle. In summary, a soft robotic proprioceptive vibration sensing solution is proposed; it helps soft robots to have a more comprehensive awareness of their self-state and may inspire further research on soft robotics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+  url: 
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
