@@ -45,7 +45,7 @@ summary: In the era of 6G and the Internet of Things (IoT), massive amounts of d
 
 tags:
 - Self-powered System
-- Triboelectric Nanogenerator
+- Infarad Wireless Communication
 featured: true
 
 # links:

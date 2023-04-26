@@ -51,8 +51,7 @@ abstract: Floor-based sensing systems to monitor human activities and identify u
 summary: 
 
 tags:
- - Triboelectric Nanogenerator
- - Self-powered Sensor
+ - Triboelectric Sensor
  - Deep Learning
 
 # Display this page in the Featured widget?

@@ -48,8 +48,8 @@ abstract: Vibration sensors are involved extensively in a variety of application
 summary: 
 
 tags:
- - Triboelectric Nanogenerator
- - Self-powered Sensor
+ - Triboelectric sensor
+ - Vibration Sensing
 
 # Display this page in the Featured widget?
 featured: false
