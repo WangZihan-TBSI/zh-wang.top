@@ -45,7 +45,7 @@ abstract: Electronic textiles (e-textiles), having the capability of interacting
 summary: 
 
 tags:
- - Body Area Network
+ - Wearable Sensor
  - Flexible Sensor
 
 # Display this page in the Featured widget?
