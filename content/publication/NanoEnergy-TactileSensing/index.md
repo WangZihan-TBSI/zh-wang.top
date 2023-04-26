@@ -1,11 +1,44 @@
 ---
-title: 
+title: A flexible triboelectric tactile sensor for simultaneous material and texture recognition
 authors: 
-- 
+- Ziwu Song
+- Jihong Yin
+- admin
+- Chengyue Lu
+- Ze Yang
+- Zihao Zhao
+- Zenan Lin
+- Jiyu Wang
+- Changsheng Wu
+- Jia Cheng
+- Yuan Dai
+- Yunlong Zi
+- Shao-Lun Huang
+- Xinlei Chen
+- Jian Song
+- Gang Li
+- Wenbo Ding
+
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+-
+-
+-
+-
+- "Corresponding Author"
+-
+-
+-
+-
+-
+-
 - 
-date: ''
-doi: ''
+-
+- "Corresponding Author"
+date: '2021-12-07T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.nanoen.2021.106798'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-06-04T00:00:00Z'
 
@@ -16,17 +49,16 @@ publishDate: '2019-06-04T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Nano Energy
 
-
-abstract: 
+abstract: Electronic skin with tactile perception enables intelligent robots and prostheses to perform dexterous manipu- lation and natural interaction with the human and surroundings. However, using single tactile sensing mecha- nism to simultaneously percept geometry features and materials properties remains a challenge due to the bottleneck of signal decoupling. Herein, we report the MTSensing system – a wireless and fully-integrated tactile sensing system that can simultaneously recognize materials and textures based on a single flexible triboelectric sensor. The proposed triboelectric sensor converts touch into electrical signals and meanwhile, the signal pro- cessing pipeline decouples the signals into macro/micro features and feeds them into the corresponding deep learning models, which simultaneously predict the materials and textures of the contacted objects with the ac- curacies of 99.07% and 99.32%, respectively. The systematic integration of MTSensing hopes to pave the way for deploying low-cost and scalable electronic skin with multi-functional perceptions.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
- - 
- - 
+ - Tactile sensing
+ - Triboelectric sensor
 
 # Display this page in the Featured widget?
 featured: false
@@ -36,7 +68,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'papers/TactileSensing.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
