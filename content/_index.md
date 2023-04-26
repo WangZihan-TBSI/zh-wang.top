@@ -99,7 +99,7 @@ sections:
           company_logo: BU_Logo
           location: Massachusetts, USA
           date_start: '2018-07-01'
-          date_end: '2019-08-01'
+          date_end: '2018-08-01'
           description: English for STEM leaders  
           
     design:
@@ -214,16 +214,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    columns: '2'
-  #    view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: tag_cloud
     content:
       title: Research Topics
