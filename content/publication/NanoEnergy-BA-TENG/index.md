@@ -40,6 +40,7 @@ tags:
  - Self-powered Sensor
  - Robotics
  - Virtual Reality
+ - Flexible Sensors
 
 # Display this page in the Featured widget?
 featured: true

@@ -44,7 +44,7 @@ abstract: Continuously and accurately monitoring pulse-wave signals is critical 
 summary: 
 
 tags:
- - Soft Sensors
+ - Flexible Sensor
  - Wearable Sensors
 
 # Display this page in the Featured widget?

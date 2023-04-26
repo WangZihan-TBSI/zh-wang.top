@@ -41,6 +41,7 @@ tags:
 - Soft Robot
 - Stretchable Sensor
 - Vibration Sensing
+- Flexible Sensor
 featured: true
 
 #links:

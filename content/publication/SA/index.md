@@ -46,7 +46,7 @@ summary:
 
 tags:
  - Body Area Network
- - Soft Sensors
+ - Flexible Sensor
 
 # Display this page in the Featured widget?
 featured: false

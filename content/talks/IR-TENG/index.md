@@ -29,7 +29,7 @@ authors:
 
 tags:
 - Self-powered System
-- Triboelectric Nanogenerator
+- Infarad Wireless Communication
 
 # Is this a featured talk? (true/false)
 featured: true
