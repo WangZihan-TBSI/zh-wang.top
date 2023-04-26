@@ -37,7 +37,6 @@ abstract: Recent advances in human-machine interface (HMI) lead to a renewed int
 summary: 
 
 tags:
- - Self-powered Sensor
  - Virtual Reality
  - Flexible Sensor
 
