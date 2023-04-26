@@ -1,5 +1,5 @@
 ---
-title: TENG Postgraduate Academic Forum at BINN, CAS
+title: TENG Postgraduate Academic Forum at BINN CAS
 event: TENG Postgraduate Academic Forum - Session 4
 event_url: 
 
