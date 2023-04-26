@@ -40,7 +40,7 @@ summary:
 
 tags:
  - Human Machine Interface
- - Wearable technologies
+ - Wearable Sensor
  - Signal Processing
 
 # Display this page in the Featured widget?

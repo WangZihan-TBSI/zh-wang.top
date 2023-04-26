@@ -45,7 +45,7 @@ summary:
 
 tags:
  - Flexible Sensor
- - Wearable Sensors
+ - Wearable Sensor
 
 # Display this page in the Featured widget?
 featured: false
