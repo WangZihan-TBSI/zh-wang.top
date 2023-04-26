@@ -39,7 +39,7 @@ abstract: Wearable technologies provide a non-invasive way to monitor user’s a
 summary: 
 
 tags:
- - Human-machine interaction
+ - Human Machine Interface
  - Wearable technologies
  - Signal Processing
 
