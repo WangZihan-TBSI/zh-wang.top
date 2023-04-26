@@ -1,7 +1,7 @@
 ---
 title: TENG Postgraduate Academic Forum at BINN, CAS
 event: TENG Postgraduate Academic Forum - Session Four
-event_url: 
+event_url: https://mp.weixin.qq.com/s/ruVlOKZVLsyJg0a5pkByvQ
 
 location: Online
 address: 
