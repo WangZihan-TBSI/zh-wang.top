@@ -39,7 +39,8 @@ summary:
 
 tags:
 - Soft Robot
-- Soft sensors
+- Stretchable Sensor
+- Vibration Sensing
 featured: true
 
 #links:
