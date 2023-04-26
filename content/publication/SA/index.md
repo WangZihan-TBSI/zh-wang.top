@@ -2,7 +2,7 @@
 title: An ultrathin rechargeable solid-state zinc ion fiber battery for electronic textiles
 authors: 
 - Xiao Xiao
-- 'Xiao Xiao'
+- Xiao Xiao 
 - Yihao Zhou
 - Xun Zhao
 - Guorui Chen
