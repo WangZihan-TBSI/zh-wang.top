@@ -5,6 +5,13 @@ event_url:
 
 location: [Online avaliable](https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a)  
 
+address:
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: ''
+
 summary: Triboelectric-nanogenerator-enabled mechanical modulation for infrared wireless communications
 abstract: In the era of 6G and the Internet of Things (IoT), massive amounts of data are produced by distributed sensors and transferred wirelessly between various smart devices. Meanwhile, the proportion of global energy expended on communications keeps increasing. A possible solution to reduce energy required for information transfer is harvesting pervasive mechanical energy. However, the popularization of so-far-realized visible-light-based self-powered optical wireless communications (OWC) systems is restricted by ambient light conditions and complex receiver designs. In this work, an infrared (IR)-based OWC system is proposed to leverage a triboelectric nanogenerator (TENG) to achieve information encoding and transmission using an IR signal that is robust against light interference. Specifically, the mechanical motion and mechanical structures of TENGs can be utilized to convey information and power the IR emitter. Moreover, the system supports diverse TENG structures and can accommodate different demands. Our research shows that self-powered IR-based OWC, with the merits of long transmission distances, high adaptability, and low cost, may significantly promote TENG-enabled OWC and pave the way for sustainable communications.
 
