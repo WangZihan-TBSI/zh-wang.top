@@ -1,44 +1,42 @@
 ---
-title: Example Talk
+title: TENG Postgraduate Academic Forum at BINN, CAS
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: TENG Postgraduate Academic Forum - Session 4
+event_url: https://mp.weixin.qq.com/s/ruVlOKZVLsyJg0a5pkByvQ
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: [Online avaliable](https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a)  
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Triboelectric-nanogenerator-enabled mechanical modulation for infrared wireless communications
+abstract: In the era of 6G and the Internet of Things (IoT), massive amounts of data are produced by distributed sensors and transferred wirelessly between various smart devices. Meanwhile, the proportion of global energy expended on communications keeps increasing. A possible solution to reduce energy required for information transfer is harvesting pervasive mechanical energy. However, the popularization of so-far-realized visible-light-based self-powered optical wireless communications (OWC) systems is restricted by ambient light conditions and complex receiver designs. In this work, an infrared (IR)-based OWC system is proposed to leverage a triboelectric nanogenerator (TENG) to achieve information encoding and transmission using an IR signal that is robust against light interference. Specifically, the mechanical motion and mechanical structures of TENGs can be utilized to convey information and power the IR emitter. Moreover, the system supports diverse TENG structures and can accommodate different demands. Our research shows that self-powered IR-based OWC, with the merits of long transmission distances, high adaptability, and low cost, may significantly promote TENG-enabled OWC and pave the way for sustainable communications.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-07-08T13:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors:
+- admin
+
+tags:
+- Self-powered System
+- Triboelectric Nanogenerator
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: bilibili
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: View the recording
+    url: https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -49,25 +47,12 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: ""
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
