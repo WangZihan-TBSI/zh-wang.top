@@ -2,7 +2,7 @@
 title: All-in-One Sensing System for Online Vibration Monitoring via IR Wireless Communication as Driven by High-Power TENG
 authors: 
 - Han Wu
-- Zihan Wang
+- admin
 - Boyu Zhu
 - Hanqing Wang
 - Chengyue Lu

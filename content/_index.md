@@ -28,7 +28,7 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Expertise
       items:
         - name: LabVIEW
           description: 
@@ -38,10 +38,14 @@ sections:
           description: 
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: Embedded Systems
           description: 
-          icon: camera-retro
-          icon_pack: fas
+          icon: microchip-ai
+          icon_pack: fad
+        - name: Material Fabrication
+          description: 
+          icon: flask-gear
+          icon_pack: fas  
   - block: experience
     content:
       title: Education & Exchange

@@ -2,7 +2,7 @@
 title: Triboelectric bending sensor based smart glove towards intuitive multi-dimensional human-machine interfaces
 authors: 
 - Yang Luo
-- Zihan Wang
+- admin
 - Jiyu Wang
 - Xiao Xiao
 - Qian Li
