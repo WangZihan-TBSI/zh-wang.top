@@ -220,7 +220,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - talk
+          - talks
     design:
       columns: '2'
       view: compact
