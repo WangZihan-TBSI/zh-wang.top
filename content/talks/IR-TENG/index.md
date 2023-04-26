@@ -1,10 +1,11 @@
 ---
-title: TENG Postgraduate Academic Forum at BINN CAS
-event: TENG Postgraduate Academic Forum Session 4
+title: Forum on fashion design and sustainable development
+event: Forum on fashion design and sustainable development
 event_url: 
-location: [Online avaliable](https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a)  
 
-address:
+location: Tecent meeting
+
+address: 
   street: ''
   city: ''
   region: ''
