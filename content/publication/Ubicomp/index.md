@@ -35,7 +35,7 @@ summary:
 
 tags:
  - Human Machine Interface
- - Triboelectric sensors
+ - Triboelectric Sensor
 
 # Display this page in the Featured widget?
 featured: false

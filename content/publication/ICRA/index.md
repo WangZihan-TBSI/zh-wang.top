@@ -38,7 +38,7 @@ abstract: Vibration perception is essential for robotic sens- ing and dynamic co
 summary: 
 
 tags:
-- Soft robots
+- Soft Robot
 - Soft sensors
 featured: true
 
