@@ -1,9 +1,6 @@
 ---
 title: 'TENG Postgraduate Academic Forum at BINN, CAS'
-
 event: 'TENG Postgraduate Academic Forum - Session 4'
-event_url: 'https://mp.weixin.qq.com/s/ruVlOKZVLsyJg0a5pkByvQ'
-
 location: [Online avaliable](https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a)  
 
 summary: Triboelectric-nanogenerator-enabled mechanical modulation for infrared wireless communications
@@ -33,14 +30,14 @@ image:
   focal_point: Right
 
 links:
-  - icon: bilibili
+  - icon: weixin
     icon_pack: fab
-    name: View the recording
-    url: https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a
+    name: Event Poster
+    url: https://mp.weixin.qq.com/s/ruVlOKZVLsyJg0a5pkByvQ
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV1B34y1n7H6/?share_source=copy_web&vd_source=f04d4ba724dedb35f0fea536297a7c4a'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
