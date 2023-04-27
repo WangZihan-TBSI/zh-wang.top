@@ -34,18 +34,14 @@ sections:
           description: 
           icon: labview-blue
           icon_pack: custom
-        - name: Signal Processing
-          description: 
-          icon: chart-line
-          icon_pack: fas
         - name: Embedded Systems
           description: 
           icon: microchip-ai
-          icon_pack: fad
+          icon_pack: fas
         - name: Material Fabrication
           description: 
           icon: flask-gear
-          icon_pack: fas  
+          icon_pack: fas
   - block: experience
     content:
       title: Education & Exchange
