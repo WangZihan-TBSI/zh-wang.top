@@ -37,11 +37,11 @@ sections:
         - name: Embedded Systems
           description: 
           icon: microchip-ai
-          icon_pack: fad
+          icon_pack: custom
         - name: Soft Robot Fabrication
           description: 
-          icon: flask-gear
-          icon_pack: far
+          icon: soft_robot
+          icon_pack: custom
   - block: experience
     content:
       title: Education & Exchange
