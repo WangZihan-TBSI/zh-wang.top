@@ -17,7 +17,7 @@ author_notes:
 - Corresponding Author
 
 date: "2023-06-04T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/ICRA48891.2023.10160790"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
