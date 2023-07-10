@@ -47,7 +47,7 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: 
-url_pdf: papers/ICRA23_1223_FI.pdf
+url_pdf: papers/STEV.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
