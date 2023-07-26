@@ -193,6 +193,10 @@ sections:
     id: featured
     content:
       title: Featured Publications
+      text: |-
+        {{% callout note %}}
+        Full list of my publication can be found [here](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
