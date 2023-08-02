@@ -63,8 +63,8 @@ sections:
           date_end: ''
           description: |2-
               Research topics include:
-              * Self-healing materials
-              * Soft robots
+              * Self-healing sensors
+              * Liquid metal acturators
 
         - title: Ph.D. Candidate
           company: Tsinghua University
@@ -73,7 +73,7 @@ sections:
           location: China
           date_start: '2019-09-01'
           date_end: ''
-          description: Research on Self-powered sensors and human-machine interface.
+          description: Research on self-powered sensors and soft robotics.
 
         - title: B.Eng. in Telecommunications Engineering
           company: Herriot-Watt University
