@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**AAAS**](https://www.science.org/doi/full/10.1126/sciadv.abl3742)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
