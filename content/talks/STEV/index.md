@@ -38,7 +38,7 @@ image:
   focal_point: Right
 
 links:
-    name: Event Poster
+    - name: Event Poster
     url: https://cdn.discordapp.com/attachments/1092839417749721120/1151129107803951156/Over_the_paywall.pdf
 url_code: ''
 url_pdf: ''
