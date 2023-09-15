@@ -38,7 +38,7 @@ image:
   focal_point: Right
 
 links:
-    - icon: discord
+  - icon: discord
     icon_pack: fab
     name: Event Poster
     url: https://cdn.discordapp.com/attachments/1092839417749721120/1151129107803951156/Over_the_paywall.pdf
