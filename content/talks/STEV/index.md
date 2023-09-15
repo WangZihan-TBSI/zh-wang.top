@@ -1,6 +1,6 @@
 ---
-title: "Over the Paywall"-Democratising Access to Soft Robotics Research
-event: "Over the Paywall"-Democratising Access to Soft Robotics Research
+title: Over the Paywall-Democratising Access to Soft Robotics Research
+event: Over the Paywall-Democratising Access to Soft Robotics Research
 event_url: https://www.linkedin.com/events/overthepaywall-1-democratisinga7107347496334417920/about/
 
 location: Online
