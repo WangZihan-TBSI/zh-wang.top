@@ -28,7 +28,7 @@ authors:
 
 tags:
 - Soft Robot
-- E-skin
+- Stretchable Sensor
 
 # Is this a featured talk? (true/false)
 featured: true
