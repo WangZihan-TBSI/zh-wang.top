@@ -9,8 +9,8 @@ authors:
 - Xu Yang
 - Yidan Cao
 - Yunlong Zi
-- Wenbo Ding
 - Zhong Lin Wang
+- Wenbo Ding
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
