@@ -17,7 +17,7 @@ author_notes:
 - Corresponding Author
 
 date: "2023-06-04T00:00:00Z"
-doi: "https://doi.org/10.1109/ICRA48891.2023.10160790"
+doi: "10.1109/ICRA48891.2023.10160790"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -50,7 +50,7 @@ featured: true
 url_pdf: papers/STEV.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'posters/STEV-poster'
 url_project: ''
 url_slides: ''
 url_source: ''
