@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Scholar
+        - title: Visiting and Postdoctoral Scholar
           company: UC Berkeley
           company_url: 'https://lwlin.me.berkeley.edu'
           company_logo: UC-Berkeley-Emblem
@@ -63,16 +63,16 @@ sections:
           date_end: ''
           description: |2-
               Research topics include:
-              * Self-healing sensors
-              * Liquid metal acturators
+              * Soft sensors
+              * Soft acturators
 
-        - title: Ph.D. Candidate
+        - title: Ph.D. in Data Science and Information Technology
           company: Tsinghua University
           company_url: 'http://ssr-group.net'
           company_logo: Tsinghua_University_Logo
           location: China
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2024-07-01'
           description: Research on self-powered sensors and soft robotics.
 
         - title: B.Eng. in Telecommunications Engineering
