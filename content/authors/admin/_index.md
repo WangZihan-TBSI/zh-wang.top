@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tsinghua University
+  - name: Tsinghua University & UC Berkeley
     url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
