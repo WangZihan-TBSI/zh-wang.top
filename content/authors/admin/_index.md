@@ -81,5 +81,5 @@ email: zihan.wang@berkeley.edu
 highlight_name: true
 ---
 
-Zihan Wang is a Ph.D. candidate of Data Science and Information Technology at Tsinghua University Smart Sensing and Robotics Lab. His research interests include soft sensors, soft robotics, signal processing and machine learning. He leads the soft robot sensing in his group, which develops e-skins for soft robots proprioceptive sensing.
+Zihan Wang recently recieved his Ph.D. degree of Data Science and Information Technology at Tsinghua University. His research interests include soft sensors, soft robotics, signal processing and machine learning. He leads the soft robot sensing in his group, which develops e-skins for soft robots proprioceptive sensing.
 {style="text-align: justify;"}
