@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D.
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tsinghua University & UC Berkeley
-    url: https://www.tsinghua.edu.cn/
+  - name: UC Berkeley, Department of Mechanical Engineering
+    url: https://me.berkeley.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include soft robot and flexible sensor. Welcome to contact me.
@@ -81,5 +81,5 @@ email: zihan.wang@berkeley.edu
 highlight_name: true
 ---
 
-Zihan Wang recently recieved his Ph.D. degree of Data Science and Information Technology at Tsinghua University. His research interests include soft sensors, soft robotics, signal processing and machine learning. He leads the soft robot sensing in his group, which develops e-skins for soft robots proprioceptive sensing.
+Zihan Wang recently recieved his appointment as postdoctoral reseacher at the University of California, Berkeley, Department of Mechanical Engineering. His research interests include soft sensors, soft robotics, signal processing and machine learning. He leads the soft sensors research in his group, which develops e-skins for soft robots and humans.
 {style="text-align: justify;"}

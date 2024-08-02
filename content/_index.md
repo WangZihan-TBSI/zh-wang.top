@@ -54,13 +54,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting and Postdoctoral Scholar
+        - title: Visiting Scholar
           company: UC Berkeley
           company_url: 'https://lwlin.me.berkeley.edu'
           company_logo: UC-Berkeley-Emblem
           location: California, USA
           date_start: '2023-03-01'
-          date_end: ''
+          date_end: '2024-02-22'
           description: |2-
               Research topics include:
               * Soft sensors

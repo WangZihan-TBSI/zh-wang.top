@@ -32,7 +32,7 @@ summary:
 
 tags:
  - Liquid Metal Actuator
- - Soft Robotics
+ - Soft Robots
 
 # Display this page in the Featured widget?
 featured: false
