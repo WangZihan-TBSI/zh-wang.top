@@ -242,7 +242,7 @@ sections:
         Leave a message here
       # Contact (add or remove contact options as necessary)
       email: zihan.wang@berkeley.edu
-      phone: (582)213-1207
+      # phone: (582)213-1207
       #appointment_url: 'https://calendly.com'
       address:
         street: 2521 Hearst Ave
