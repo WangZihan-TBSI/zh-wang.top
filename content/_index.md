@@ -73,7 +73,7 @@ sections:
           location: China
           date_start: '2019-09-01'
           date_end: '2024-07-01'
-          description: Research on self-powered sensors and soft robotics.
+          description: Thesis - Research on Key Technologies of Flexible Triboelectric Sensors for Robotic Applications
 
         - title: B.Eng. in Telecommunications Engineering
           company: Herriot-Watt University
