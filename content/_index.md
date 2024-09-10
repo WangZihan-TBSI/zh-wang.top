@@ -26,22 +26,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Expertise
-      items:
-        - name: LabVIEW
-          description: 
-          icon: labview-blue
-          icon_pack: custom
-        - name: Embedded Systems
-          description: 
-          icon: microchip-ai
-          icon_pack: custom
-        - name: Soft Robot Fabrication
-          description: 
-          icon: soft_robot
-          icon_pack: custom
+#  - block: features
+#    content:
+#      title: Expertise
+#      items:
+#        - name: LabVIEW
+#          description: 
+#          icon: labview-blue
+#          icon_pack: custom
+#        - name: Embedded Systems
+#          description: 
+#          icon: microchip-ai
+#          icon_pack: custom
+#        - name: Soft Robot Fabrication
+#          description: 
+#          icon: soft_robot
+#          icon_pack: custom
   - block: experience
     content:
       title: Education & Exchange
