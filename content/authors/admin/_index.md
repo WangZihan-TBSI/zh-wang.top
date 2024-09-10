@@ -81,5 +81,5 @@ email: zihan.wang@berkeley.edu
 highlight_name: true
 ---
 
-Zihan Wang recently recieved his appointment as postdoctoral reseacher at the University of California, Berkeley, Department of Mechanical Engineering. His research interests include soft sensors, soft robotics, signal processing and machine learning. He leads the soft sensors research in his group, which develops e-skins for soft robots and humans.
+Zihan Wang recently recieved his appointment as postdoctoral reseacher at the University of California, Berkeley, Department of Mechanical Engineering. His research interests include flexible sensors, soft robotics, intellegent materials, signal processing and machine learning.
 {style="text-align: justify;"}

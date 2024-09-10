@@ -1,5 +1,5 @@
 ---
-title: 'When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors From the Signal Processing Perspective'
+title: "When Vision Meets Touch: A Contemporary Review for Visuotactile Sensors From the Signal Processing Perspective"
 authors: 
 - Shoujie Li
 - admin
@@ -20,7 +20,7 @@ author_notes:
 -
 -
 - "Corresponding Author"
-date: '2020-08-05T00:00:00Z'
+date: '2024-04-04T00:00:00Z'
 doi: 'http://10.1109/JSTSP.2024.3416841'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-04-04T00:00:00Z'
@@ -44,7 +44,7 @@ tags:
  - 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
