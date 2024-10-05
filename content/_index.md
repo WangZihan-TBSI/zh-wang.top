@@ -44,7 +44,7 @@ sections:
 #          icon_pack: custom
   - block: experience
     content:
-      title: Education & Exchange
+      title: Education & Working Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting Scholar
+        - title: Postdoctoral Scholar
           company: UC Berkeley
           company_url: ''
           company_logo: UC-Berkeley-Emblem
