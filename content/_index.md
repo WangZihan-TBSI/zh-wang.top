@@ -56,7 +56,7 @@ sections:
       items:
         - title: Visiting Scholar
           company: UC Berkeley
-          company_url: ''
+          company_url: 'https://lwlin.me.berkeley.edu'
           company_logo: UC-Berkeley-Emblem
           location: California, USA
           date_start: '2023-03-01'
@@ -68,7 +68,7 @@ sections:
 
         - title: Ph.D. in Data Science and Information Technology
           company: Tsinghua University
-          company_url: ''
+          company_url: 'http://ssr-group.net'
           company_logo: Tsinghua_University_Logo
           location: China
           date_start: '2019-09-01'
