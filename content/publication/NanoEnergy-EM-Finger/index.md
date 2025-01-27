@@ -52,7 +52,7 @@ abstract: Advancement in human-robot interaction (HRI) is essential for the deve
 summary: 
 
 tags:
- - Tactile sensing
+ - Tactile Sensor
  - Human-robot interaction
 
 # Display this page in the Featured widget?

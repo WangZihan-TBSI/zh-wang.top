@@ -57,7 +57,7 @@ abstract: Electronic skin with tactile perception enables intelligent robots and
 summary: 
 
 tags:
- - Tactile sensing
+ - Tactile Sensor
  - Triboelectric sensor
 
 # Display this page in the Featured widget?
