@@ -40,7 +40,7 @@ tags:
  - Mechanoluminescent Sensor
 
 # Display this page in the Featured widget?
-featured: false
+featured: trues
 
 # Custom links (uncomment lines below)
 # links:
