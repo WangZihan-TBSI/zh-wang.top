@@ -22,7 +22,7 @@ organizations:
     url: https://me.berkeley.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include soft robot and flexible sensor. Welcome to contact me.
+bio: My research interests include sensing systems and data solutions for embodied AI. Welcome to contact me.
 
 # Interests to show in About widget
 interests:
@@ -81,5 +81,5 @@ email: zihan.wang@berkeley.edu
 highlight_name: true
 ---
 
-Zihan Wang recently recieved his appointment as postdoctoral reseacher at the University of California, Berkeley, Department of Mechanical Engineering. His research interests include flexible sensors, soft robotics, intellegent materials, signal processing and machine learning.
+Zihan Wang is postdoctoral reseacher at the University of California, Berkeley, Department of Mechanical Engineering. His research interests focus on sensing systems anda data solutions for embodied AI.
 {style="text-align: justify;"}

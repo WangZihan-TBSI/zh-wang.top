@@ -12,7 +12,7 @@ sections:
       #  filename: hero-academic.png
       
       text: |-
-        **My research focuses on the intersection of flexible sensors and signal processing algorithms to develop solutions for soft robots.**
+        **My research focuses on the sensing systems and data solutions for embodied AI**
 
     design:
       background:
@@ -63,8 +63,8 @@ sections:
           date_end: ''
           description: |2-
               Research topics include:
-              * Soft sensors
-              * Soft acturators
+              * Sensing systems for robots
+              * Data solutions for embodied AI
 
         - title: Ph.D. in Data Science and Information Technology
           company: Tsinghua University
