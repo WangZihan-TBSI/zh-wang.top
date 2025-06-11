@@ -66,7 +66,7 @@ social:
   #  link: https://github.com/WangZihan-TBSI
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E5%AD%90%E6%B6%B5-%E7%8E%8B-383a57109/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Brod%2BY1FaSoG1tmn4coqUTQ%3D%3D
+    link: www.linkedin.com/in/zihanwangucb
   - icon: weixin
     icon_pack: fab
     link: "wechat.jpg"
