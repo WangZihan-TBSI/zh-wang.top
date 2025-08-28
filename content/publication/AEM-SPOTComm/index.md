@@ -1,5 +1,5 @@
 ---
-title: Self-Powered Optical Communication `:` Opportunities, Challenges and Future Prospects
+title: Self-Powered Optical Communication&colon; Opportunities, Challenges and Future Prospects
 authors: 
 - admin
 - Jiarong Li
@@ -28,7 +28,7 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: Advanced Energy Materials
 
-abstract: Modern optical communication systems, from ﬁber-optic networks to optical wireless communications, are fundamentally constrained by their reliance on external power sources. This perspective highlights explores the transformative potential of self-powered optical communication (SPOTComm), a paradigm-shift technology in which optical communication is achieved without relying on external power supplies. SPOTComm opens new avenues for building sustainable and maintenance-free communication nodes for the Internet of Things (IoT), particularly in power-constrained or remote environments. In light of this, recent major breakthroughs in this interdisciplinary ﬁeld and identify key challenges that impeding SPOTComm’s wider adoption are reviewed. Speciﬁcally, three technical routes that establish SPOTComm link`:` 1) energy harvester-driven optical transmission, 2) direct mechanical-to-optical conversion, and 3) self-powered optical modulation are categorized. To enlighten future development, we oﬀer a forward-looking vision of how materials and device innovations can overcome current limitations, ultimately enabling optical communication systems that are not only high-performance and secure, but also self-sustaining, scalable, and pervasive.
+abstract: Modern optical communication systems, from ﬁber-optic networks to optical wireless communications, are fundamentally constrained by their reliance on external power sources. This perspective highlights explores the transformative potential of self-powered optical communication (SPOTComm), a paradigm-shift technology in which optical communication is achieved without relying on external power supplies. SPOTComm opens new avenues for building sustainable and maintenance-free communication nodes for the Internet of Things (IoT), particularly in power-constrained or remote environments. In light of this, recent major breakthroughs in this interdisciplinary ﬁeld and identify key challenges that impeding SPOTComm’s wider adoption are reviewed. Speciﬁcally, three technical routes that establish SPOTComm link&colon; 1) energy harvester-driven optical transmission, 2) direct mechanical-to-optical conversion, and 3) self-powered optical modulation are categorized. To enlighten future development, we oﬀer a forward-looking vision of how materials and device innovations can overcome current limitations, ultimately enabling optical communication systems that are not only high-performance and secure, but also self-sustaining, scalable, and pervasive.
 
 # Summary. An optional shortened abstract.
 summary: 
