@@ -1,5 +1,5 @@
 ---
-title: Self-Powered Optical Communication - Opportunities, Challenges and Future Prospects
+title: Self-Powered Optical Communication \: Opportunities, Challenges and Future Prospects
 authors: 
 - admin
 - Jiarong Li
